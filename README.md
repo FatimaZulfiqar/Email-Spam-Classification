@@ -8,7 +8,7 @@ Data Science/Machine Learning
 
 At this time, Email has become powerful tool for communication. Every person uses it for communication purposes. It is an important tool that saves a lot of time and cost. It is one of the most popular and secure medium for online transferring and communication messages or data through the web. But, some time, user gets the unwanted information which is called spam. To identify such spam email is one of the important challenges. This python application will help the user to indentify the spam and non spam emails. It has much scope and importance.
 
-<br> <br>
+<br>
 In this project we will use PYTHON text classification technique to identify or classify email spam message. We will find accuracy, time and error rate by applying suitable algorithms (such as NaiveBayes, NaiveBayesMultinomial and J48 etc.) on Email Dataset and we will also compare which algorithm is best for text classification.
 
 ## Functional Requirements:
